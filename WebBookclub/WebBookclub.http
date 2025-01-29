@@ -1,6 +1,6 @@
 @WebBookclub_HostAddress = http://localhost:5070
 
-GET {{WebBookclub_HostAddress}}/weatherforecast/
+GET {{WebBookclub_HostAddress}}/helloworld/
 Accept: application/json
 
 ###
